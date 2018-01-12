@@ -1,5 +1,10 @@
 # Emmon Group of Faucets 
-Emmon group faucet is the combination of several crypto-currency faucet (bitcoin) where users can earn, collect or claim free bitcoin with a given time frame after completing a simple task and captcha service. Emmon group faucet uses both Faucetsystem and faucethub micro payment system. 
+
+Emmon group faucet is the combination of several crypto-currency (bitcoin) faucet where users can earn, collect or claim free bitcoin with a given time frame after completing a simple task and captcha service. Emmon group faucet uses both Faucetsystem and faucethub micro payment system. Emmon bitcoin faucets users stand a chance to earn 10% referral earnings and jackpot of bitcoins (up-to 1000 satoshi). The bitcoin faucet payouts vary and sometimes depends on the current bitcoin exchange rate. 
+
+Emmon Group of Faucet also provide special promotional offers and generously reward both existing and loyal users of Emmon bitcoin faucet various range of prizes. 
+
+
 
 
 
@@ -34,7 +39,7 @@ Emmon Adult Faucet.  <a href="http://emmonadultfaucet.tk/">http://emmonadultfau
 
 ## How to Earn/ Claim Bitcoins from Emmon Nigerian Faucet
 
-#
+
 1. Insert your bitcoin wallet in the space provided
 
 2. Click on the reCaptcha and solve media and complete the task
@@ -43,7 +48,7 @@ Emmon Adult Faucet.  <a href="http://emmonadultfaucet.tk/">http://emmonadultfau
 
 4. On the Captcha page click on the similar font style then click on the claim button
 
-#
+
 ## How to Earn/ Claim Bitcoins from Emmon Adult Faucet
 
 
@@ -55,3 +60,15 @@ Emmon Adult Faucet.  <a href="http://emmonadultfaucet.tk/">http://emmonadultfau
 
 4. On the Captcha page click on the similar font style then click on the claim button
 
+
+## Emmon Group of Faucets on Social Media 
+
+Please visit us on the following social media platform and share your experience with us. Your opinion matters alot to us and we strive to reach out to our numerous bitcoin faucet users there.
+
+1, Emmon Faucet  <a href="https://emmonfaucet.ga/">Facebook</a> 
+
+
+
+2. Emmon Nigerian Faucet 
+
+3. Emmon Adult Faucet 
