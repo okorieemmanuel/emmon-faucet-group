@@ -5,15 +5,22 @@ Emmon group faucet is the combination of several crypto-currency faucet (bitcoin
 
 Emmon group of faucet consists of
 
+
 Emmon faucet. http://emmonfaucet.ga
+
 Emmon Adult Faucet. http://emmonadultfaucet.tk
+
 Emmon Nigerian Faucet. http://emmonnigerianfaucet.tk
 
 
 
 How to Earn/ Claim Bitcoins from Emmon Faucet
 
-Insert your registered faucethub wallet in the space provided
-Click on the reCaptcha and solve media and complete the task
-Click on the login button
-On the Captcha page click on the similar font style then click on the claim button
+
+1. Insert your registered faucethub wallet in the space provided
+
+2. Click on the reCaptcha and solve media and complete the task
+
+3. Click on the login button
+
+4. On the Captcha page click on the similar font style then click on the claim button
