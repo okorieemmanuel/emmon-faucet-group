@@ -65,14 +65,14 @@ Emmon Adult Faucet.  <a href="http://emmonadultfaucet.tk/">http://emmonadultfau
 
 Please visit us on the following social media platform and share your experience with us. Your opinion matters alot to us and we strive to reach out to our numerous bitcoin faucet users there.
 
-1, Emmon Faucet on <a href="https://web.facebook.com/Emmon-Faucet-111171899587674/">Facebook</a> and <a href="https://www.linkedin.com/mwlite/company/18371003/">LinkedIn</a>
+1. Emmon Faucet on <a href="https://web.facebook.com/Emmon-Faucet-111171899587674/">Facebook</a> and <a href="https://www.linkedin.com/mwlite/company/18371003/">LinkedIn</a>
 
 
 
 
-2. Emmon Nigerian Faucet on <a href="https://web.facebook.com/Emmon-Nigerian-Faucet-885617678271218/">Facebook</a> and <a href="https://www.linkedin.com/mwlite/company/18371003/">LinkedIn</a>
+2. Emmon Nigerian Faucet on <a href="https://web.facebook.com/Emmon-Nigerian-Faucet-885617678271218/">Facebook</a> and <a href="https://www.linkedin.com/company/emmon-nigerian-faucet/">LinkedIn</a>
 
 
 
 
-3. Emmon Adult Faucet on <a href="https://web.facebook.com/Emmon-Adult-Faucet-1990113574555898/">Facebook</a> and <a href="https://www.linkedin.com/mwlite/company/18371003/">LinkedIn</a>
+3. Emmon Adult Faucet on <a href="https://web.facebook.com/Emmon-Adult-Faucet-1990113574555898/">Facebook</a> and <a href="https://www.linkedin.com/company/emmon-adult-faucet/">LinkedIn</a>
