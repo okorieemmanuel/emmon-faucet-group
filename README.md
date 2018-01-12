@@ -1,4 +1,4 @@
-# Emmon Group of Faucets 
+# Emmon Faucet Group 
 
 Emmon group faucet is the combination of several crypto-currency (bitcoin) faucet where users can earn, collect or claim free bitcoin with a given time frame after completing a simple task and captcha service. Emmon group faucet uses both Faucetsystem and faucethub micro payment system. Emmon bitcoin faucets users stand a chance to earn 10% referral earnings and jackpot of bitcoins (up-to 1000 satoshi). The bitcoin faucet payouts vary and sometimes depends on the current bitcoin exchange rate. 
 
