@@ -80,6 +80,6 @@ Please visit us on the following social media platform and share your experience
 
 
 Bitcoin is Ok. 
- Get the latest insight on news and information about bitcoin on BITCOIN IS OK WEBSITE. such as bitcoin investments, wallets, cloud mining and so much more. Visit a title="Bitcoin is ok" href="https://bitcoinisok.com">Bitcoin is OK </a> 
+ Get the latest insight on news and information about bitcoin on BITCOIN IS OK WEBSITE. such as bitcoin investments, wallets, cloud mining and so much more. Visit <a title="Bitcoin is ok" href="https://bitcoinisok.com">Bitcoin is OK </a> 
 
 
